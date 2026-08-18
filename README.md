@@ -1,4 +1,4 @@
-# 🫁 Pediatric Asthma ETL Pipeline
+# Pediatric Asthma ETL Pipeline
 ### CDC CSV → Claude-Generated XLSX → Power BI Dashboard
 
 [![Data Source](https://img.shields.io/badge/Source-CDC%20NCHS-blue)](https://www.cdc.gov/nchs/hus/topics/asthma.htm)
